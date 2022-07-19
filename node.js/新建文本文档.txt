@@ -1,0 +1,11 @@
+
+electron-packager打包文件偏大，通常使用electron-builder
+淘宝镜像设置
+https://blog.csdn.net/weixin_52768646/article/details/120447667
+npm镜像设置
+https://wenku.baidu.com/view/601e5df4270c844769eae009581b6bd97f19bcf2.html
+electron-packager和electron-builder使用
+http://t.zoukankan.com/badaoliumangqizhi-p-13298700.html
+
+
+
